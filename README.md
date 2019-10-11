@@ -32,8 +32,8 @@ a aplicação vai estar rodando pronta para receber requisições no seguinte en
 
 ## GET /movies
     campo:
-        nome
+        nome: String
 
 ## GET /details
     campo:
-        movie_id
+        movie_id: String
