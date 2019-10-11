@@ -11,7 +11,7 @@ a aplicação vai estar rodando pronta para receber requisições no seguinte en
 
 ## http://localhost:3333/
 
-Rotas
+## Rotas
 
 ## POST /movies
     campos: 
